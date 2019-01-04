@@ -9,6 +9,15 @@ layout: default
 
   {{ content }}
 
+  <div class="sidebar-right sidebar right column-4">
+  <p>Did you know ...</p>
+  <ul class="fact-list smaller">
+    1
+    2
+    3
+  </ul>
+  </div>
+  
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Posts:" }}</h2>
     <ul class="post-list">
@@ -33,10 +42,5 @@ layout: default
   
 </div>
 
-  <div class="sidebar-right sidebar right column-4">
-  <p>Did you know ...</p>
-  <ul class="fact-list smaller">
-    ...
-  </ul>
-  </div>
+
 
