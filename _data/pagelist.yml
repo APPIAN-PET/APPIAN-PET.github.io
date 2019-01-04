@@ -2,10 +2,10 @@ docs_list_title: ACME Documentation
 docs:
 
     - title: Introduction
-        - url: "https://www.google.com"
+        url: 1
 
     - title: Configuration
-        url: "https://www.google.com"
+        url: 2
 
     - title: Deployment
-        url: "https://www.google.com"
+        url: 3
