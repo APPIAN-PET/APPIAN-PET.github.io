@@ -1,1 +1,9 @@
+title: APPIAN
+author: Thomas Funck
+email: tffunck@gmail.com
+description: > # this means to ignore newlines until "twitter_username:"
+  APPIAN website 
+# social links
+twitter_username: tffunck
+github_username:  tfunck
 theme: minima
